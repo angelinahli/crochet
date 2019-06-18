@@ -13,3 +13,8 @@ given some basic rules about alternating colors.
 
 ### Initial Colors:
 ![alt text](colors.jpg "Colors")
+
+### Final Project:
+![alt text](final1.jpg "Final Project 1")
+![alt text](final2.jpg "Final Project 2")
+![alt text](final3.jpg "Final Project 3")
